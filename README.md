@@ -1,8 +1,10 @@
 # CV-Coursework-20412961
 
-Name: Bin Zhang
+*Name:* Bin Zhang
 
-Student ID: 20412961
+*Student ID:* 20412961
+
+***Note: Due to the large file size, all Input Videos are stored in OneDrive.***
 
 ## Program Running Steps
 
