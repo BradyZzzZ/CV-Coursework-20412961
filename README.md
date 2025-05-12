@@ -62,7 +62,9 @@ Student ID: 20412961
 
 -	**Other basic libraries** -- *OS*, *SYS*, *Time*, *Types*, *Wearnings*
 
-##  My Python Version is "Python 3.10.13" configured through Anaconda Environment
+##  Environment configuration and installation
+
+My Python Version is *"Python 3.10.13"* configured through *Anaconda* Environment
 
 For specific versions of each used package, please refer to the *"requirements.txt"* file.
 
