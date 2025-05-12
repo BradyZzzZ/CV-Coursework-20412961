@@ -36,31 +36,31 @@ Student ID: 20412961
 
   Related used methods: *"cv2.VideoCapture"*, *"cv2.cvtColor"*, *"cv2.rectangle"*, *"cv2.putText"*, *"cv2.Canny"*
 
--	**PyTorch** -- Used to load and run the YOLOv5-Medium model, perform inference, and manage GPU memory
+- **PyTorch** -- Used to load and run the YOLOv5-Medium model, perform inference, and manage GPU memory
 
   Related used methods: *"torch.hub.load"*, *"torch.device"*, *"torch.cuda.empty_cache()"*
 
--	**Streamlit** -- Provides a simple UI for users to upload videos, adjust parameters and display output videos and metrics tables.
+- **Streamlit** -- Provides a simple UI for users to upload videos, adjust parameters and display output videos and metrics tables.
 
   Related used methods: *"st.slider"*, *"st.selectbox"*, *"st.file_uploader"*
 
--	**DeepSORT (deep_sort_realtime)** -- Enables person identity tracking across frames
+- **DeepSORT (deep_sort_realtime)** -- Enables person identity tracking across frames
 
   Related used methods: *"DeepSort.update_tracks"*
 
--	**NumPy** --  Assists in numerical calculations and trajectory distance computation
+- **NumPy** --  Assists in numerical calculations and trajectory distance computation
 
   Related used methods: *"np.linalg.norm"*, *"np.mean"*, *"np.std"*
 
--	**Pandas** -- Used to format and display metrics tables in the web interface
+- **Pandas** -- Used to format and display metrics tables in the web interface
 
   Related used methods: *"pd.DataFrame"*, *"st.dataframe"*
 
--	**Subprocess** -- Invokes FFmpeg for video format conversion
+- **Subprocess** -- Invokes FFmpeg for video format conversion
 
   Related used methods: *"subprocess.run"*
 
--	**Other basic libraries** -- *OS*, *SYS*, *Time*, *Types*, *Wearnings*
+- **Other basic libraries** -- *OS*, *SYS*, *Time*, *Types*, *Wearnings*
 
 ##  Environment configuration and installation
 
