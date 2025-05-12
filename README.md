@@ -32,6 +32,8 @@
 
 - **Step 10**: Check the output metrics tables and conduct evaluation and analysis
 
+***Note**: For the first time you run it, you need to download the YOLOv5-Medium model. So please make sure that your network connection is available. If the download fails, must clear the cache and then try again.*
+
 ## Several important Python packages and methods used
 
 - **OpenCV (cv2)** -- Used for video reading and writing, image pre-processing and drawing visualizations.
@@ -76,4 +78,4 @@ You can install them automatically through the command:
 pip install -r requirements.txt
 ```
 
-*Note: If you have the latest version of the TensorFlow-GPU (even though it will not used) package in your current environment, it is recommended to reconfigure a new Anaconda environment to avoid conflicts.*
+***Note**: If you have the latest version of the TensorFlow-GPU (even though it will not used) package in your current environment, it is recommended to reconfigure a new Anaconda environment to avoid conflicts.*
