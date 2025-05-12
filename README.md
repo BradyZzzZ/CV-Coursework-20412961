@@ -71,7 +71,7 @@ For specific versions of each used package, please refer to the *"requirements.t
 You can install them automatically through the command:
 
 ```sh
-"pip install -r requirements.txt"
+pip install -r requirements.txt
 ```
 
 *Note: If you have the latest version of the TensorFlow-GPU (even though it will not used) package in your current environment, it is recommended to reconfigure a new Anaconda environment to avoid conflicts.*
